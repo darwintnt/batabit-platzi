@@ -83,7 +83,7 @@ header img {
   width: 1.3rem;
   height: 0.8rem;
   margin-left: 1rem;
-  background-image: url("assets/icons/arrow-down.svg");
+  background-image: url("../assets/icons/arrow-down.svg");
 }
 main {
   width: 100%;
@@ -95,7 +95,7 @@ main {
   height: 200px;
   margin: 0 auto;
   margin-bottom: 50px;
-  background-image: url("assets/images/bitcoin.svg");
+  background-image: url("../assets/images/bitcoin.svg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -214,19 +214,19 @@ main {
   margin-left: 1rem;
 }
 .currency-table--container .icon-up {
-  background-image: url("assets/icons/trending-up.svg");
+  background-image: url("../assets/icons/trending-up.svg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 .currency-table--container .icon-down {
-  background-image: url("assets/icons/trending-down.svg");
+  background-image: url("../assets/icons/trending-down.svg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 .separator {
-  background-image: url("assets/icons/separator.svg");
+  background-image: url("../assets/icons/separator.svg");
   background-size: cover;
   background-repeat: no-repeat;
   width: 40px;
@@ -278,16 +278,16 @@ main {
   height: 2rem;
 }
 .card .clock {
-  background-image: url("assets/icons/clock.svg");
+  background-image: url("../assets/icons/clock.svg");
 }
 .card .eye {
-  background-image: url("assets/icons/eye.svg");
+  background-image: url("../assets/icons/eye.svg");
 }
 .card .dollar {
-  background-image: url("assets/icons/dollar-sign.svg");
+  background-image: url("../assets/icons/dollar-sign.svg");
 }
 .card .check {
-  background-image: url("assets/icons/check-circle.svg");
+  background-image: url("../assets/icons/check-circle.svg");
 }
 .card .card-title {
   color: var(--just-white);
@@ -307,7 +307,7 @@ main {
   width: 100%;
   min-width: 320px;
   height: 387px;
-  background-image: url("assets/images/bitcoinbaby2x.webp");
+  background-image: url("../assets/images/bitcoinbaby2x.webp");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -407,7 +407,7 @@ main {
   width: 20px;
   height: 20px;
   display: inline-block;
-  background-image: url("assets/icons/arrow-right.svg");
+  background-image: url("../assets/icons/arrow-right.svg");
   vertical-align: text-bottom;
 }
 footer {
