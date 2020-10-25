@@ -1,71 +1,59 @@
 header {
   height: 440px;
 }
-
 header img {
   width: 174px;
   height: 28px;
 }
-
 .header--content h1 {
   width: 466px;
   margin: 0 auto;
   font-size: 4rem;
   line-height: 4.2rem;
 }
-
 .header--content p {
   width: 466px;
   margin: 3.4rem auto;
   font-size: 2rem;
   line-height: 2.4rem;
 }
-
 .section--container h2 {
   width: 466px;
   margin: 0 auto;
   font-size: 4rem;
   line-height: 4.2rem;
 }
-
 .section--container p {
   width: 466px;
   margin: 3.4rem auto;
   font-size: 2rem;
   line-height: 2.4rem;
 }
-
-
 .plans-container--slider,
 .currency-container--slider {
   justify-content: center;
   overflow-x: hidden;
 }
-
 .main-benefit-container .main-benefit-cards {
   flex-direction: row;
   flex-wrap: wrap;
   width: 834px;
 }
-
 .main-tables-container {
   display: flex;
   margin: 0 auto;
   width: 834px;
 }
-
 .main-meet-him-container {
   display: flex;
   justify-content: center;
   align-items: center;
 }
-
 .main-meet-him-container h2 {
   padding: 0;
   font-size: 4rem;
   line-height: 4.2rem;
 }
-
 footer .footer__logo {
   width: 105px;
   height: 153px;
